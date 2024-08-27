@@ -7,7 +7,3 @@ Here are my works in **MATLAB**.
 - [**Lab6**]
 - [**Image segmentation and morphological operations. Object tracking.**](https://github.com/IsilEna/SignalProcessing/blob/main/Lab2-Isil%20Sonmez.pdf)
 
-
-##  Signal Processing
-###  Signal Processing
-#### Signal Processing
