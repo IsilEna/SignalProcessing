@@ -7,4 +7,6 @@ Here are my works in **MATLAB**.
 - [**Time Frequency Response**](https://github.com/IsilEna/SignalProcessing/blob/main/Signals_Lab6_Sonmez_Isil.pdf)
 - [**Image segmentation and morphological operations. Object tracking.**](https://github.com/IsilEna/SignalProcessing/blob/main/Lab2-Isil%20Sonmez.pdf)
 - [**Dynamical System Modelling**](https://github.com/IsilEna/SignalProcessing/blob/main/Lab%207_Isil%20Sonmez.pdf)
+- [**Nonparametric Identification**](https://github.com/IsilEna/SignalProcessing/blob/main/Processing_LAB%208_%20Sonmez_Isil.pdf)
+- [**Parametric Identification**](https://github.com/IsilEna/SignalProcessing/blob/main/Processing_Lab9_Sonmez_Isil.pdf)
 
